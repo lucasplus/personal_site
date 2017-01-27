@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 OUTPUT_PATH = 'docs/'
+
+STATIC_PATHS = ['images', 'pdfs']
