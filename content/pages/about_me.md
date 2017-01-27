@@ -7,7 +7,11 @@ Hello. Welcome to my website. My name is Lucas and I am a graduate from the Univ
 
 Through my graduate career I have worked on many interesting projects and this website is a way to share them. Here is my dog Pepper helping me with one of these projects:
 
-<a href="http://imgur.com/QeLSBBm"><img src="http://i.imgur.com/QeLSBBm.jpg?1" title="Pepper and the Fanuc robot" style="width:300px;" align="middle"/></a>
+<p style="text-align:center;">
+  <a href="http://imgur.com/QeLSBBm">
+    <img src="http://i.imgur.com/QeLSBBm.jpg?1" title="Pepper and the Fanuc robot" style="width:300px;"/>
+  </a>
+</p>
 
 There is more content to come, for now I will simply list some of my projects on this page.
 
@@ -17,7 +21,9 @@ For my thesis I developed an algorithm that I named Mesh Addition Based on the D
 
 For my thesis I tested my algorithm is a simulated environment. The video below shows one of the experiments I ran to validate my algorithm.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SFv2fov3yM0" frameborder="0" allowfullscreen></iframe>
+<p style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SFv2fov3yM0" frameborder="0" allowfullscreen></iframe>
+</p>
 
 MABDI was published and presented at [Robotics and Automation for Humanitarian Applications](raha2016.org) (RAHA) 2016. A pdf of that paper can be found [here]({filename}/pdfs/paper_raha.pdf).
 
