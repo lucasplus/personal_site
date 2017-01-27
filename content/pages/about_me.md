@@ -7,7 +7,7 @@ Hello. Welcome to my website. My name is Lucas and I am a graduate from the Univ
 
 Through my graduate career I have worked on many interesting projects and this website is a way to share them. Here is my dog Pepper helping me with one of these projects:
 
-![Pepper and the Fanuc Robot]({filename}/images/pepper_robot.jpg)
+<a href="http://imgur.com/QeLSBBm"><img src="http://i.imgur.com/QeLSBBm.jpg" title="source: imgur.com" style="width:300px;" /></a>
 
 There is more content to come, for now I will simply list some of my projects on this page.
 
